@@ -3,7 +3,14 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=colecody27&size_weight=0.5&count_weight=0)
 
-![image](https://github.com/colecody27/colecody27/assets/71093271/87655645-ef84-4707-b5e9-317fbd04c64e)
+<img
+  src="https://support.content.office.net/en-us/media/b95651af-0084-4eb6-be25-a5008de0ca97.png"
+  alt="Cat with Tears of Joy"
+  width="25"
+  height="25"
+/>
+
+
 
 <!--
 **colecody27/colecody27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
