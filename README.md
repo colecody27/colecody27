@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=colecody27)](https://github.com/colecody27/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=colecody27)](https://git.io/streak-stats)
 <!--
 **colecody27/colecody27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
