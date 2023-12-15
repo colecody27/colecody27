@@ -4,12 +4,11 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=colecody27&size_weight=0.5&count_weight=0)
 
 <img
-  src="https://support.content.office.net/en-us/media/b95651af-0084-4eb6-be25-a5008de0ca97.png"
+  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Smilies/Cat%20with%20Tears%20of%20Joy.png"
   alt="Cat with Tears of Joy"
   width="25"
   height="25"
 />
-
 
 
 <!--
