@@ -4,24 +4,22 @@ I am an Army veteran currently in my fourth year of pursuing my bachelors in com
 
 <!--ABOUT ME -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" alt="Orange Book" width="35" height="35" /> Experiences
-
-
 <!--LIST OF EXPERIENCES -->
 <a href = "https://www.linkedin.com/in/cody-cole"/>
   <img height = 25px src = "https://custom-icon-badges.demolab.com/badge/AWS-FFA500?logo=database&style=plastic">  
-</a> <br>
+</a>
 <a href = "https://www.navair.navy.mil/nawcwd"/>
   <img height = 25px src = "https://custom-icon-badges.demolab.com/badge/NAWCWD-0047AB?logo=broadcast&style=plastic">  
-</a> <br>
+</a>
 <a href = "https://www.nasa.gov/learning-resources/nasa-community-college-aerospace-scholars/">
   <img height = 25px src = "https://custom-icon-badges.demolab.com/badge/NASA-FF0000?logo=rocket&style=plastic">  
-</a><br>
+</a>
 <a href = "https://www.sec.gov/"/>
   <img height = 25px src = "https://custom-icon-badges.demolab.com/badge/SEC-8B8000?logo=law&style=plastic">  
-</a><br>
+</a>
 <a href = "https://www.army.mil/"/>
   <img height = 25px src = "https://custom-icon-badges.demolab.com/badge/ARMY-454B1B?logo=law&style=plastic">  
-</a><br>
+</a>
 
 
 
@@ -38,10 +36,10 @@ I am an Army veteran currently in my fourth year of pursuing my bachelors in com
 ## Social Media 
 <a href = "https://www.linkedin.com/in/cody-cole"/>
   <img height = 25px src = "https://img.shields.io/badge/Linkedin-1F51FF?logo=linkedin&style=plastic">  
-</a> <br>
+</a>
 <a href = "https://codycole.vercel.app/"/>
   <img height = 25px src = "https://custom-icon-badges.demolab.com/badge/Portfolio-7F00FF?logo=browser&style=plastic">  
-</a><br>
+</a>
 <a href = "https://mail.google.com/mail/?view=cm&fs=1&to=colecody27@gmail.com">
   <img height = 25px src = "https://custom-icon-badges.demolab.com/badge/Email-FF0000?logo=gmail&style=plastic&logoColor=white">  
 </a>
