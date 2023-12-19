@@ -1,12 +1,12 @@
-<!--INTRODUCTION-->
-<img src = "https://github.com/colecody27/colecody27/assets/71093271/921d9aba-f63d-44f6-851f-249d61dc90b7">
+<!--PICTURE-->
+<img src = "https://github.com/colecody27/colecody27/assets/71093271/5a908e8a-366e-469a-832d-59fce87bc3a9">
 
+<!--ABOUT ME -->
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="50" height="50" />  About Me
 I'm an Army veteran currently in my fourth year of pursuing my bachelors in computer science. I have had three internships, one at Amazon Web Services, the Securities and Exchange Commission and the other at the Naval Air Warfare Center Weapons Division as well as an academic experience with NASA. In my free time I like jiu jitsu and playing chess. 
 
-<!--ABOUT ME -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" alt="Orange Book" width="35" height="35" /> Experiences
 <!--LIST OF EXPERIENCES -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" alt="Orange Book" width="35" height="35" /> Experiences
 <a href = "https://www.linkedin.com/in/cody-cole"/>
   <img height = 25px src = "https://custom-icon-badges.demolab.com/badge/AWS-FFA500?logo=database&style=plastic&labelColor=white&logoColor=FFA500">  
 </a>
