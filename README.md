@@ -1,24 +1,26 @@
 <!--INTRODUCTION-->
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="50" height="50" />  Hi there! I'm Cody
+<img src = "https://github.com/colecody27/colecody27/assets/71093271/921d9aba-f63d-44f6-851f-249d61dc90b7">
+
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="50" height="50" />  About Me
 I'm an Army veteran currently in my fourth year of pursuing my bachelors in computer science. I have had three internships, one at Amazon Web Services, the Securities and Exchange Commission and the other at the Naval Air Warfare Center Weapons Division as well as an academic experience with NASA. In my free time I like jiu jitsu and playing chess. 
 
 <!--ABOUT ME -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" alt="Orange Book" width="35" height="35" /> Experiences
 <!--LIST OF EXPERIENCES -->
 <a href = "https://www.linkedin.com/in/cody-cole"/>
-  <img height = 25px src = "https://custom-icon-badges.demolab.com/badge/AWS-FFA500?logo=database&style=plastic">  
+  <img height = 25px src = "https://custom-icon-badges.demolab.com/badge/AWS-FFA500?logo=database&style=plastic&labelColor=white&logoColor=FFA500">  
 </a>
 <a href = "https://www.navair.navy.mil/nawcwd"/>
-  <img height = 25px src = "https://custom-icon-badges.demolab.com/badge/NAWCWD-0047AB?logo=broadcast&style=plastic">  
+  <img height = 25px src = "https://custom-icon-badges.demolab.com/badge/NAWCWD-0047AB?logo=broadcast&style=plastic&labelColor=white&logoColor=0047AB">  
 </a>
 <a href = "https://www.nasa.gov/learning-resources/nasa-community-college-aerospace-scholars/">
-  <img height = 25px src = "https://custom-icon-badges.demolab.com/badge/NASA-FF0000?logo=rocket&style=plastic">  
+  <img height = 25px src = "https://custom-icon-badges.demolab.com/badge/NASA-FF0000?logo=rocket&style=plastic&labelColor=white&logoColor=FF0000">  
 </a>
 <a href = "https://www.sec.gov/"/>
-  <img height = 25px src = "https://custom-icon-badges.demolab.com/badge/SEC-8B8000?logo=law&style=plastic">  
+  <img height = 25px src = "https://custom-icon-badges.demolab.com/badge/SEC-8B8000?logo=law&style=plastic&labelColor=white&logoColor=8B8000">  
 </a>
 <a href = "https://www.army.mil/"/>
-  <img height = 25px src = "https://custom-icon-badges.demolab.com/badge/ARMY-454B1B?logo=law&style=plastic">  
+  <img height = 25px src = "https://custom-icon-badges.demolab.com/badge/ARMY-454B1B?logo=law&style=plastic&labelColor=white&logoColor=454B1B">  
 </a>
 
 
@@ -33,13 +35,13 @@ I'm an Army veteran currently in my fourth year of pursuing my bachelors in comp
 <br>
 
 <!--SOCIAL MEDIA-->
-## Social Media 
+## Let's Connect! 
 <a href = "https://www.linkedin.com/in/cody-cole"/>
-  <img height = 25px src = "https://img.shields.io/badge/Linkedin-1F51FF?logo=linkedin&style=plastic">  
+  <img height = 25px src = "https://img.shields.io/badge/Linkedin-1F51FF?logo=linkedin&style=plastic&labelColor=white&logoColor=1F51FF">  
 </a>
 <a href = "https://codycole.vercel.app/"/>
-  <img height = 25px src = "https://custom-icon-badges.demolab.com/badge/Portfolio-7F00FF?logo=browser&style=plastic">  
+  <img height = 25px src = "https://custom-icon-badges.demolab.com/badge/Portfolio-7F00FF?logo=browser&style=plastic&labelColor=white&logoColor=7F00FF">  
 </a>
 <a href = "https://mail.google.com/mail/?view=cm&fs=1&to=colecody27@gmail.com">
-  <img height = 25px src = "https://custom-icon-badges.demolab.com/badge/Email-FF0000?logo=gmail&style=plastic&logoColor=white">  
+  <img height = 25px src = "https://custom-icon-badges.demolab.com/badge/Email-FF0000?logo=gmail&style=plastic&logoColor=white&labelColor=white&logoColor=FF0000">  
 </a>
