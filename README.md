@@ -3,7 +3,7 @@
 
 <!--ABOUT ME -->
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="50" height="50" />  About Me
-I’m a Software Engineer and U.S. Army veteran with experience across government and industry. Including internships at Amazon Web Services (AWS), the Securities and Exchange Commission (SEC), and the Naval Air Warfare Center Weapons Division (NAWCWD). In my free time, I enjoy training in Brazilian Jiu Jitsu and playing chess.
+I’m a Software Engineer and U.S. Army veteran with experience across both government and industry. Including 2 years at Amazon Web Services (AWS) as a Software Development Engineer, and internships at the Securities and Exchange Commission (SEC) and the Naval Air Warfare Center Weapons Division (NAWCWD). Outside of work, I enjoy training in Brazilian Jiu Jitsu and playing chess.
 <!--LIST OF EXPERIENCES -->
 ## <!--<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" alt="Orange Book" width="35" height="35" /> --> Experiences
 <a href = "https://www.linkedin.com/in/cody-cole"/>
