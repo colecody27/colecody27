@@ -23,16 +23,13 @@ Explore more of my projects and experiences at [**codycode.org**](https://www.co
 
 ---
 
-## GitHub Stats  
-
-<p align="center">
-  <a href="https://github.com/colecody27">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=colecody27&theme=transparent&show_icons=true&rank_icon=github&include_all_commits=true&custom_title=GitHub+Stats" />
-  </a>
-  <a href="https://github.com/colecody27">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=colecody27&layout=donut&theme=transparent&langs_count=6&custom_title=Languages" />
-  </a>
-</p>
+## <!--<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> --> GitHub Stats  
+<a href="https://github.com/colecody27/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=colecody27&theme=transparent&rank_icon=github&include_all_commits=true&show_icons=true&custom_title=Stats" />
+</a>
+<a href="https://github.com/colecody27/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=colecody27&size_weight=0.5&count_weight=0&theme=transparent&layout=donut&langs_count=6&custom_title=Languages" />
+</a>
 
 ---
 
