@@ -7,7 +7,7 @@
 
 # 👋 About Me  
 
-I’m a **Software Engineer** and **U.S. Army Veteran** with experience across both **government and industry** — including **2 years at Amazon Web Services (AWS)** as a Software Development Engineer, and internships at the **Securities and Exchange Commission (SEC)** and **Naval Air Warfare Center Weapons Division (NAWCWD)**.  I’m passionate about **backend systems, telemetry, and defense/aerospace technologies**.
+I’m a **Software Engineer** and **U.S. Army Veteran** with experience across both **government and industry** — including **2 years at Amazon Web Services (AWS)** as a Software Development Engineer, and internships at the **Securities and Exchange Commission (SEC)** and **Naval Air Warfare Center Weapons Division (NAWCWD)**.  I’m interested in **backend systems, telemetry, and defense/aerospace technologies**.
 
 ---
 
